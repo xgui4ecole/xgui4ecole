@@ -1,3 +1,4 @@
+ ~~~text
 xgui4@fedora:~$ fastfetch
              .',;::::;,'.                 xgui4@fedora
          .';:cccccccccccc:;,.             ------------
@@ -26,6 +27,6 @@ ccccccccccccccccccccccccccccc:'.          Terminal: GNOME Terminal 3.50.1
                                           Local IP (wlo1): censored
                                           Battery (A32-K55): 97% [Charging]
                                           Locale: fr_CA.UTF-8
-
+`
                                                                   
                                                                   
